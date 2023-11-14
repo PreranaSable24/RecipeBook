@@ -1,4 +1,4 @@
-# Recipe Book Web App 🍳📚📖🍽️
+# Recipe Book 🍳📚📖🍽️
 
 Welcome to the Recipe Book Web App – your go-to platform for organizing, discovering, and sharing your favorite recipes! 🌮🍰🍲
 
